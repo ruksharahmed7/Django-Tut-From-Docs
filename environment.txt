@@ -1,0 +1,4 @@
+conda activate selise
+rukshar ruksharahmed7@gmail.com 12345
+abel a@gmail.com 2345
+cain c@gmail.com 345
